@@ -8,7 +8,7 @@ Tailwindcss Alpinjs Simple Project
 `npm install -D tailwindcss`
 `npx tailwindcss init`
 
-### Generate the tailwind css tags
+#### Generate the tailwind css tags
 
 `npx tailwindcss -i ./src/tailwind.css -o ./src/style.css --watch`
 
