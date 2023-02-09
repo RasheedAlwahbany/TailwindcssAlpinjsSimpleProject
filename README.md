@@ -3,7 +3,7 @@ Tailwindcss Alpinjs Simple Project
 
 ## Install project requirments
 
-### Install tailwindcss
+### Install <a href="https://tailwindcss.com/docs/installation">tailwindcss</a> 
 
 `npm install -D tailwindcss`
 `npx tailwindcss init`
@@ -12,7 +12,7 @@ Tailwindcss Alpinjs Simple Project
 
 `npx tailwindcss -i ./src/tailwind.css -o ./src/style.css --watch`
 
-### Install alpinejs
+### Install <a href="https://alpinejs.dev/essentials/installation">alpinejs</a>
 
 `npm install alpinejs`
 
